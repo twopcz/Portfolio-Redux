@@ -15,7 +15,7 @@ function Content() {
     const contact = {
         heading: (
             <a
-                href="mailto:me@justinle.page"
+                href="mailto:info@justinle.me"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-dark"
