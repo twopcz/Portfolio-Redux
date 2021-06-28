@@ -19,8 +19,7 @@ export default function ProjectPage() {
     const projects = [
         {
             name: `ORDER UP`,
-            image:
-                'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/ou-ss-2.png?raw=true',
+            image: 'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/ou-ss-2.png?raw=true',
             link: 'https://order-up-jkrtr.herokuapp.com/',
             repo: 'https://github.com/twopcz/order-up',
             tech: 'MongoDB, Express, React and Node',
@@ -28,8 +27,7 @@ export default function ProjectPage() {
         },
         {
             name: `SNEAKER STORE`,
-            image:
-                'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/jlr-ss-2.png?raw=true',
+            image: 'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/jlr-ss-2.png?raw=true',
             link: 'http://jlr-sneaker-crm.herokuapp.com/',
             repo: 'https://github.com/twopcz/jlr-sneaker-crm',
             tech: 'MySQL, Express, React.JS, and Node',
@@ -37,8 +35,7 @@ export default function ProjectPage() {
         },
         {
             name: `CUTIE BURGER`,
-            image:
-                'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/cb-ss-2.png?raw=true',
+            image: 'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/cb-ss-2.png?raw=true',
             link: 'https://cutie-burger.herokuapp.com/',
             repo: 'https://github.com/twopcz/Burger',
             tech: 'MySQL, Express, Node, and Handlebars',
@@ -46,29 +43,26 @@ export default function ProjectPage() {
         },
         {
             name: `EMPLOYEE DIRECTORY`,
-            image:
-                'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/ed-ss-2.png?raw=true',
+            image: 'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/ed-ss-2.png?raw=true',
             repo: 'https://github.com/twopcz/Employee-Directory',
             tech: 'React and Node',
             description: `An employee directory with data generated from an API call to randomuser.me. The data is displayed in a table that can be sorted and filtered by name, phone, email and birthday.`
         },
         {
             name: `BUDGET TRACKER`,
-            image:
-                'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/bt-ss-2.png?raw=true',
+            image: 'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/bt-ss-2.png?raw=true',
             link: 'https://justin-budget-tracker.herokuapp.com/',
             repo: 'https://github.com/twopcz/Budget-Tracker',
             tech: `MongoDB, Express and Node`,
             description: `A budget tracker application used to help the user visualize their spending habits. The web application can also be installed as a PWA (Progessive Web App) for online/offline use, so that the user can master their budget if they are not able to be connected to the internet.`
         },
         {
-            name: `BZY-KAI.COM`,
-            image:
-                'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/bk-ss.png?raw=true',
-            link: 'https://bzy-kai.com',
+            name: `ANTKAI.COM`,
+            image: 'https://github.com/twopcz/portfolio-redux/blob/master/src/assets/images/bk-ss-2.png?raw=true',
+            link: 'https://antkai.com/',
             repo: 'https://github.com/twopcz/bzy-kai',
             tech: `React`,
-            description: `Website designed and developed to showcase some of the artist's past works, allow customers to get in touch, and redirect to a bigcartel page for ecommerce. Contact form is done via email.js as the hosting site does not support Node.js for the backend. Stylized per the client's request.`
+            description: `Website designed and developed to showcase some of the artist's past works, allow customers to get in touch, and redirect to a BigCartel page for ecommerce. Contact form is done via email.js, custom coded Gallery and Lookbook pages, responsive mobile design.`
         }
     ];
 
